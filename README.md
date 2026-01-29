@@ -1,9 +1,16 @@
 # 📊 Microsoft Excel Projects Portfolio
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Advanced-green)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Focused-blue)
+![Dashboard](https://img.shields.io/badge/Dashboard-Data%20Visualization-orange)
+![BI](https://img.shields.io/badge/Business%20Intelligence-Reporting-purple)
+
+---
+
 ## 🌍 Language Options | Opções de Idioma
 This README is available in two languages:
-- 🇺🇸 **English (International Version)** — see below
-- 🇧🇷 **Português (Versão em Português)** — scroll down
+- 🇺🇸 **English (International / Recruiters & BI Version)**
+- 🇧🇷 **Português (Versão em Português)**
 
 ---
 
@@ -12,58 +19,75 @@ This README is available in two languages:
 ## Author
 **Ellihas Dhavis Araújo de Freitas**
 
-## Overview
-This repository showcases a collection of projects developed using **Microsoft Excel**, focusing on financial analysis, data organization, dashboards, and best practices for data visualization.  
-All projects were built with attention to usability, visual consistency, and real-world business applications.
+## Professional Overview (Data & BI Focus)
+This repository presents a portfolio of **Microsoft Excel projects** developed with a strong focus on **Data Analysis, Business Intelligence, and Dashboarding**.
+
+The projects demonstrate my ability to:
+- Transform raw data into **business insights**
+- Design **clear, executive-ready dashboards**
+- Apply **best practices in data organization and visualization**
+- Build Excel solutions that support **decision-making processes**
+
+These projects are suitable for roles such as **Data Analyst**, **BI Analyst**, and **Business Intelligence Associate**.
 
 ---
 
-## Project 1: Financial Spreadsheet
+## Project 1: Financial Analysis Spreadsheet
 
-### Project Description
-During the development of this project, I had the opportunity to learn in depth from instructor Filipe Aguiar (DIO.ME). The course focused on mastering Excel’s native features, enabling a complete understanding of the tool, including menus, contextual options, and essential functionalities.
+### Business Context
+This project was developed as a **financial analysis and investment recommendation tool**, designed to simulate real-world decision-making scenarios using Excel.
 
-A key highlight of this project was the emphasis on best practices in data handling and presentation. I learned how to structure data in a way that clearly answers business questions, transforming raw numbers into actionable insights.
+### What I Learned
+Under the guidance of instructor Filipe Aguiar (DIO.ME), I deepened my understanding of Excel’s core functionalities and learned how to:
+- Structure data to answer **business questions**
+- Apply **best practices in financial modeling**
+- Ensure clarity, consistency, and usability for end users
 
-### Development Notes
-The spreadsheet was developed following the instructor’s logic to maintain calculation consistency. However, visual elements were customized while respecting professional design standards and best practices.
-
-Additionally, I integrated the logo of the company where I currently work, making the spreadsheet ready for immediate use by the internal team.
-
-### Key Features
-- Structured as an investment analysis and recommendation tool  
-- User-driven parameters for calculations  
-- Editable input fields for interaction  
-- Protected cells to prevent formatting or formula issues  
-
----
-
-## Project 2: Income Tax Application
-
-### Project Description
-This project was more comprehensive and visually demanding. I focused on maintaining a consistent visual identity while adapting the application to my professional environment.
-
-To ensure data integrity and security, the spreadsheet is protected with a password.  
-**Password to unlock:** `1234`
+### Technical & BI Highlights
+- Parameter-driven financial calculations  
+- User-friendly input areas (unlocked cells)  
+- Protected structure to ensure data integrity  
+- Visual consistency aligned with corporate standards  
+- Ready for real business usage (company branding applied)
 
 ---
 
-## Project 3: Dashboard
+## Project 2: Income Tax Application (Excel-Based)
 
-### Project Description
-This project emphasized visual clarity and best practices in dashboard creation. It represents my greatest learning experience, as it reshaped how I organize and present information.
+### Business Context
+This project simulates a **personal and corporate income tax management tool**, focusing on data accuracy, organization, and visual clarity.
 
-Rather than focusing on the quantity of charts, I prioritized clarity, readability, and meaningful insights. The concepts learned here are now a core part of my professional approach to data visualization.
+### BI & Data Practices
+- Strong focus on **data validation and structure**
+- Visual layout designed for easy interpretation
+- Spreadsheet protected to ensure data security  
+
+🔐 **Password to unlock:** `1234`
 
 ---
 
-## Technologies & Skills Demonstrated
+## Project 3: Executive Dashboard
+
+### Business Context
+This dashboard project focuses on **data visualization best practices** and executive-level reporting.
+
+### Key Takeaways
+This was the project where I achieved the greatest professional growth. I learned how to:
+- Reduce visual noise
+- Highlight **key metrics**
+- Present insights in a way that supports **fast and effective decisions**
+
+Rather than prioritizing quantity, the dashboard focuses on **clarity, relevance, and business value**.
+
+---
+
+## Tools & Skills Demonstrated
 - Microsoft Excel (Advanced)
-- Financial Analysis
+- Financial & Business Analysis
+- Dashboard Design & Storytelling
 - Data Organization & Validation
-- Dashboards & Data Visualization
-- Best Practices for Business Reporting
-- User Experience applied to spreadsheets
+- Business Intelligence Fundamentals
+- User-Centered Spreadsheet Design
 
 ---
 
@@ -72,56 +96,72 @@ Rather than focusing on the quantity of charts, I prioritized clarity, readabili
 ## Autor
 **Ellihas Dhavis Araújo de Freitas**
 
-## Visão Geral
-Este repositório apresenta uma coleção de projetos desenvolvidos com **Microsoft Excel**, com foco em análise financeira, organização de dados, dashboards e boas práticas de visualização.
+## Visão Profissional (Foco em Dados & BI)
+Este repositório apresenta um portfólio de **projetos em Microsoft Excel** com foco em **Análise de Dados, Business Intelligence e Dashboards**.
 
-Todos os projetos foram construídos priorizando usabilidade, consistência visual e aplicação prática em cenários reais de negócio.
+Os projetos demonstram minha capacidade de:
+- Transformar dados brutos em **insights de negócio**
+- Criar dashboards claros e prontos para nível executivo
+- Aplicar boas práticas de **organização e visualização de dados**
+- Desenvolver soluções em Excel voltadas à **tomada de decisão**
+
+Este portfólio é direcionado a posições como **Analista de Dados**, **Analista de BI** e **Business Intelligence**.
 
 ---
 
-## Projeto 1: Planilha Financeira
+## Projeto 1: Planilha de Análise Financeira
 
-### Descrição do Projeto
-Durante o desenvolvimento deste projeto, tive a oportunidade de aprender profundamente com o professor Filipe Aguiar (DIO.ME). O curso foi focado no uso das funcionalidades nativas do Excel, permitindo uma compreensão completa da ferramenta, incluindo menus, opções contextuais e recursos essenciais.
+### Contexto de Negócio
+Projeto desenvolvido como uma ferramenta de **análise financeira e sugestão de investimentos**, simulando cenários reais de decisão.
 
-Um dos principais diferenciais foi a aplicação de boas práticas no tratamento e apresentação de dados, aprendendo a estruturar informações para responder perguntas de negócio de forma clara e objetiva.
+### Aprendizados
+Com a orientação do professor Filipe Aguiar (DIO.ME), aprofundei meus conhecimentos em:
+- Estruturação de dados para responder perguntas de negócio
+- Modelagem financeira no Excel
+- Clareza, padronização e usabilidade
 
-### Considerações sobre o Desenvolvimento
-A planilha foi desenvolvida seguindo o raciocínio do instrutor para manter a consistência dos cálculos. No entanto, a parte visual foi personalizada, respeitando padrões profissionais e boas práticas.
-
-Também incluí a logomarca da empresa onde trabalho atualmente, possibilitando o uso direto da planilha pelo time.
-
-### Funcionalidades
-- Estruturada como uma ferramenta de análise e sugestão de investimentos  
-- Cálculos baseados em parâmetros fornecidos pelo usuário  
-- Campos editáveis para interação  
-- Células protegidas para evitar alterações indevidas  
+### Destaques Técnicos e de BI
+- Cálculos financeiros baseados em parâmetros
+- Campos de entrada amigáveis ao usuário
+- Estrutura protegida para garantir integridade dos dados
+- Identidade visual corporativa aplicada
+- Pronta para uso em ambiente profissional
 
 ---
 
 ## Projeto 2: Aplicativo de Imposto de Renda
 
-### Descrição do Projeto
-Este projeto se mostrou mais completo e desafiador, especialmente na parte visual. Busquei manter uma identidade visual consistente e adaptei o aplicativo ao meu ambiente profissional.
+### Contexto de Negócio
+Projeto que simula um sistema de controle e organização de imposto de renda, com foco em precisão, clareza e segurança.
 
-A planilha conta com proteção por senha para garantir segurança dos dados.  
-**Senha para desproteção:** `1234`
+### Boas Práticas Aplicadas
+- Validação e organização dos dados
+- Layout visual orientado à leitura rápida
+- Proteção da planilha para segurança das informações  
 
----
-
-## Projeto 3: Dashboard
-
-### Descrição do Projeto
-Este projeto teve como foco principal a clareza visual e a aplicação de boas práticas na construção de dashboards. Foi onde obtive maior evolução, mudando minha forma de organizar e apresentar informações.
-
-Optei por priorizar qualidade e clareza em vez da quantidade de gráficos, garantindo que os dados apresentados fossem facilmente compreendidos.
+🔐 **Senha para desproteção:** `1234`
 
 ---
 
-## Tecnologias & Habilidades Demonstradas
+## Projeto 3: Dashboard Executivo
+
+### Contexto de Negócio
+Projeto focado em **visualização de dados e relatórios executivos**, aplicando conceitos fundamentais de BI.
+
+### Principais Aprendizados
+Este foi o projeto com maior impacto no meu desenvolvimento profissional. Aprendi a:
+- Reduzir excesso de informação
+- Destacar métricas realmente relevantes
+- Comunicar dados de forma clara e estratégica
+
+O foco foi qualidade, clareza e valor para o negócio.
+
+---
+
+## Ferramentas & Habilidades Demonstradas
 - Microsoft Excel (Avançado)
-- Análise Financeira
+- Análise Financeira e de Negócios
+- Criação de Dashboards
 - Organização e Validação de Dados
-- Dashboards e Visualização de Dados
-- Boas Práticas em Relatórios Corporativos
-- Experiência do Usuário aplicada a planilhas
+- Fundamentos de Business Intelligence
+- Design de Planilhas Orientado ao Usuário
